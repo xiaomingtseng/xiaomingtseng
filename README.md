@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 我是曾健智，一名喜歡製造問題再解決問題怪人。
 竭盡所能的去接觸CS的各領域，找出自己所屬於的。
@@ -10,7 +10,7 @@
 
 - 📫 聯絡方式：[bbt2587898123@gmail.com](mailto:bbt2587898123@gmail.com)
 - 😄 代名詞：他/他的
-- ⚡ 有趣的事實：超愛下西洋棋
+- ⚡ 有趣的事實：超愛下西洋棋 https://link.chess.com/friend/Si15RB(尋求棋友👋)
 
 ### 我的技能
 - **語言**: JavaScript, Python, C/C++
