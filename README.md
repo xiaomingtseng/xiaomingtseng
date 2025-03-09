@@ -18,7 +18,7 @@
 - **工具**: Git, VS Code
 
 ### 我的項目(沒成品QQ)
-Let's Chess - 學習flutter
-LazyOrder - side project, 學習全端
+- Let's Chess - 學習flutter
+- LazyOrder - side project, 學習全端
 
 感謝你的訪問！希望我們能在GitHub上合作愉快！
