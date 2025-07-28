@@ -1,18 +1,14 @@
-## Hi there 
+# 哈囉，我是曾健智 👋
 
-我是曾健智，努力鑽研各項技術，目標是成為一個合格的工程師
+從中學習，找到自我
 ### 關於我
-- 🔭 目前正在從事：全端開發，flutter開發行動端
-- 🌱 正在學習：機器學習、人工智慧和微服務架構(k8s, docker)
-- 👯 希望能夠合作：開源項目和技術社群
-- 🤔 尋求幫助：優化代碼和性能調優
+- 🔭 目前正在從事：機器視覺、資料分析
+- 🌱 額外學習：微服務架構(k8s, docker)
+- ❄️ 曾經學習 : 前後端開發
 - 📫 聯絡方式：[bbt2587898123@gmail.com](mailto:bbt2587898123@gmail.com)
-- ⚡ 有趣的事實：超愛下西洋棋 https://link.chess.com/friend/Si15RB  (尋求棋友👋)
+- ⚡ 興趣： 🏎️ 、 🏀
 
-### 我的技能
-- **語言**: JavaScript, Python, C/C++
-- **框架**: React, Flask
-
+  
 ### GitHub 統計
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaomingtseng&show_icons=true&theme=radical)
 
