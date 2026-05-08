@@ -32,6 +32,5 @@
 
 **「如果你有相關技術問題，或有任何我擅長領域的需求，隨時歡迎詢問我！」**
 
-*   **Email**: [你的 Email]
-*   **LinkedIn**: [你的 LinkedIn 連結]
-*   **Portfolio**: [你的作品集或個人網站]
+*   **Email**: bbt2587898123@gmail.com
+*   **Portfolio**: [https://xiaomingtseng.github.io/blog/]
