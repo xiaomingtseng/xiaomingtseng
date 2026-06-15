@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 專業領域與興趣 (Technical Interests)
+### 專業領域與興趣 (Technical Interests)
 
 *   **金融量化與 ML**: 專注於量化交易策略開發、數據分析，以及深度學習在金融領域的應用。
 *   **全端開發能力**: 具備從後端 API 設計到前端介面呈現的整合能力，追求程式碼的效能與可擴展性。
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ 技術棧 (Tech Stack)
+###🛠️ 技術棧 (Tech Stack)
 
 *   **程式語言**: Python (量化分析/ML), C++, JavaScript/TypeScript
 *   **數據與機器學習**: PyTorch, Scikit-learn, Pandas
@@ -21,16 +21,16 @@
 
 ---
 
-### 📈 近期動態 (Focusing on)
+### 近期動態 (Focusing on)
 
 *   **聊天應用程式復刻**: 正在開發一個高效能的聊天 App。在此專案中，我嚴格實踐 **Clean Code** 原則，並透過 **Git Issues** 進行任務管理與版本控制，確保開發過程具備工業級的程序與透明度。
 *   **量化研究與回測**: 初步探索量化模型建立，並學習如何建構穩健的交易回測系統，以數據驅動決策。
 
 ---
 
-### 🤝 聯絡與合作
+### 合作
 
-**「如果你有相關技術問題，或有任何我擅長領域的需求，隨時歡迎詢問我！」**
+**有跟我的興趣overlap的專案歡迎提出詢問**
 
 *   **Email**: bbt2587898123@gmail.com
 *   **Portfolio**: [https://xiaomingtseng.github.io/blog/]
