@@ -1,28 +1,32 @@
-# Hi, I'm Brian Tseng 👋
+# Hey, I'm Brian 👋
 
-I'm a **B.S. student at National Taiwan Ocean University (NTOU)** with a strong interest in machine learning, data science, trading, and user-centered design.
+I'm a B.S. student at **National Taiwan Ocean University (NTOU)**. I like learning by building things, breaking things, and trying again.
 
-## About Me
+These days, I'm spending time on **machine learning, data, trading, and UI/UX**.
 
-- 📊 I enjoy exploring data, building machine learning models, and turning ideas into practical projects.
-- 🏆 I regularly participate in **Kaggle competitions** to improve my skills in data analysis, feature engineering, and model evaluation.
-- 📈 I enjoy trading and learning about financial markets. When I take time to cool down from trading, I explore useful research, market insights, and career resources from leading investment banks.
-- 🎨 I'm interested in finding and learning from **UI/UX templates, design systems, and component libraries on GitHub**.
-- 🌱 I'm always looking for opportunities to learn, collaborate, and build useful products.
+## What I'm into
 
-## Technical Interests
+- 🏆 **Kaggle** — joining competitions and learning how to turn messy data into useful predictions.
+- 📈 **Trading** — I enjoy the markets, but I also believe in taking a cooldown when things get too intense. During that time, I read market research and learn from leading investment banks.
+- 🎨 **UI/UX** — looking for good templates, design systems, and component libraries on GitHub.
+- 🛠️ **Building** — experimenting with ideas and turning them into small, useful projects.
 
-- **Languages:** Python, C++
-- **Machine Learning & Data Science:** PyTorch, scikit-learn, pandas, LightGBM
-- **Data Work:** Exploratory data analysis, feature engineering, model evaluation, and validation
-- **Finance:** Trading, financial markets, investment research, and data-driven decision-making
-- **UI/UX:** Interface design, design systems, reusable components, and GitHub-based templates
+## My usual toolkit
 
-## Current Focus
+`Python` · `C++` · `PyTorch` · `scikit-learn` · `pandas` · `LightGBM`
 
-I'm currently working on Kaggle projects, learning more about financial markets and investment research from leading investment banks, and exploring UI/UX resources such as [shadcn/ui](https://github.com/shadcn-ui/ui).
+## Currently learning
 
-## Connect with Me
+Financial markets, investment research, better data-driven decisions, and how to make software feel good to use.
 
-- 📧 Email: bbt2587898123@gmail.com
-- 🌐 Portfolio: [xiaomingtseng.github.io/blog](https://xiaomingtseng.github.io/blog/)
+## A little GitHub eye candy
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xiaomingtseng&show_icons=true&theme=tokyonight&hide_border=true" alt="Brian's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomingtseng&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+## Say hi
+
+- 📧 [Email](mailto:bbt2587898123@gmail.com)
+- 🌐 [Portfolio](https://xiaomingtseng.github.io/blog/)
