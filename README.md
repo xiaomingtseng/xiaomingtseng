@@ -19,11 +19,11 @@ These days, I'm spending time on **machine learning, data, trading, and UI/UX**.
 
 Financial markets, investment research, better data-driven decisions, and how to make software feel good to use.
 
-## A little GitHub eye candy
+## GitHub corner
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaomingtseng&show_icons=true&theme=tokyonight&hide_border=true)
+Most of my projects are experiments, competition notebooks, and small ideas that I'm turning into something useful.
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomingtseng&layout=compact&theme=tokyonight&hide_border=true)
+📌 [Explore my repositories](https://github.com/xiaomingtseng?tab=repositories) · 📊 [See my activity](https://github.com/xiaomingtseng)
 
 ## Say hi
 
