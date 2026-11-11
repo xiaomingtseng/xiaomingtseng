@@ -21,10 +21,9 @@ Financial markets, investment research, better data-driven decisions, and how to
 
 ## A little GitHub eye candy
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaomingtseng&show_icons=true&theme=tokyonight&hide_border=true" alt="Brian's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomingtseng&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaomingtseng&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomingtseng&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Say hi
 
