@@ -1,33 +1,26 @@
 # Hi, I'm Brian Tseng 👋
 
-一位熱衷於 **機器學習 (ML)**、**數據分析 (Data Science)** 的資工碩士生。我致力於將數據科學方法應用於真實世界問題。
+I'm a **B.S. student at National Taiwan Ocean University (NTOU)** with a strong interest in machine learning, data science, and user-centered design.
 
----
+## About Me
 
-### 專業領域與興趣 (Technical Interests)
+- 📊 I enjoy exploring data, building machine learning models, and turning ideas into practical projects.
+- 🏆 I regularly participate in **Kaggle competitions** to improve my skills in data analysis, feature engineering, and model evaluation.
+- 🎨 I'm interested in finding and learning from **UI/UX templates, design systems, and component libraries on GitHub**.
+- 🌱 I'm always looking for opportunities to learn, collaborate, and build useful products.
 
-* **數據科學與 ML 技巧**：喜歡挖掘資料背後的規律，鑽研特徵工程、模型調參與各種 ML 技巧的實戰應用。
-* **Kaggle 實戰**：從入門的 Playground 系列，到更硬核的細胞追蹤（Cell Tracking）、地層厚度預測（Stratum Thickness Prediction）等競賽都有涉獵。
+## Technical Interests
 
----
+- **Languages:** Python, C++
+- **Machine Learning & Data Science:** PyTorch, scikit-learn, pandas, LightGBM
+- **Data Work:** Exploratory data analysis, feature engineering, model evaluation, and validation
+- **UI/UX:** Interface design, design systems, reusable components, and GitHub-based templates
 
-### 🛠️ 技術棧 (Tech Stack)
+## Current Focus
 
-* **程式語言**：Python（量化分析／ML）、C++
-* **數據與機器學習**：PyTorch、Scikit-learn、Pandas、LightGBM
-* **資料處理／分析**：特徵工程、EDA、模型評估與驗證
+I'm currently working on Kaggle projects and exploring UI/UX resources such as [shadcn/ui](https://github.com/shadcn-ui/ui) to improve both my technical and product design skills.
 
----
+## Connect with Me
 
-### 📌 近期動態 (Focusing on)
-
-最近在刷 Kaggle，範圍從入門的 Playground 系列，到細胞追蹤、地層厚度預測等更進階的題目，持續累積 data science／ML 實戰經驗。
-
----
-
-### 合作
-
-**有跟我的興趣 overlap 的專案歡迎提出詢問**
-
-* **Email**: bbt2587898123@gmail.com
-* **Portfolio**: [https://xiaomingtseng.github.io/blog/](https://xiaomingtseng.github.io/blog/)
+- 📧 Email: bbt2587898123@gmail.com
+- 🌐 Portfolio: [xiaomingtseng.github.io/blog](https://xiaomingtseng.github.io/blog/)
